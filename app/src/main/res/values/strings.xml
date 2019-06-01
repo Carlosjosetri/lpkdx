@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LaPokedex</string>
+    <string name="pokemonName">Pokemon name</string>
+    <string name="pokemon_id">POKEMON ID</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_size">96dp</dimen>
+    <dimen name="big_text">15sp</dimen>
+    <dimen name="small_gap">8dp</dimen>
+    <dimen name="tiny_gap">5dp</dimen>
+</resources>
